@@ -8,6 +8,6 @@ spec:
     image: nginx
     env:
     - name: devops
-      course: k8s
+      value: k8s
     - name: aws
-      course: s3
+      value: s3
